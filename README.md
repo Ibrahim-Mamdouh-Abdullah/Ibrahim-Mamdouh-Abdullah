@@ -2,7 +2,7 @@
 
 **Full-Stack Web Developer using .NET & Angular**  
 📍 Egypt  
-📧 ibrahim.mamdouh@example.com  
+📧 hemamamdouh76@gmail.com 
 🔗 [LinkedIn](https://www.linkedin.com/in/ibrahim-mamdouh-495076205/)  
 
 ---
